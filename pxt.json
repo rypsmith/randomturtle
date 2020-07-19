@@ -3,12 +3,13 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tutorial.md"
     ],
     "testFiles": [
         "test.ts"
@@ -16,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
