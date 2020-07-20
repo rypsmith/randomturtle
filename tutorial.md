@@ -46,3 +46,19 @@ basic.forever(function () {
     turnDirection = randint(0, 1)
 })
 ```
+
+## Step 6 - bring in conditional
+
+Next place a conditional ``||logic:if...then, else||`` under the ``||variables:set turnDirection||`` block.
+
+```blocks
+let turnDirection = 0
+basic.forever(function () {
+    turnDirection = randint(0, 1)
+    if (true) {
+    	
+    } else {
+    	
+    }
+})
+```
