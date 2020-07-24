@@ -1,14 +1,10 @@
 
 > Open this page at [https://rypsmith.github.io/randomturtle/](https://rypsmith.github.io/randomturtle/)
+## Tutorial
 
-## Use as Extension
+* [tutorial](/randomonturtle/tutorial) 
+* [start](https://makecode.microbit.org/#tutorial:github:rypsmith/randomonturtle/tutorial)
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rypsmith/randomturtle** and import
 
 ## Edit this project ![Build status badge](https://github.com/rypsmith/randomturtle/workflows/MakeCode/badge.svg)
 
