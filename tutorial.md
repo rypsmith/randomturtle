@@ -103,7 +103,9 @@ The turle extension has been added to this project for you, but for future refer
 
 ## Step 10 - Use turtle powers!
 
-Add the ``||turtle: turn left||`` block into the ``||logic: if...then||`` command, and the ``||turtle: turn right||`` into the ``||logic: else||``
+Add the ``||turtle: turn left||`` block into the ``||logic: if...then||`` command, and the ``||turtle: turn right||`` into the ``||logic: else||`` block. 
+
+Don't forget to upload your code to a micro:bit and enjoy the randomness!
 
 ```blocks
 let turnDirection = 0
