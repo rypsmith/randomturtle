@@ -98,9 +98,8 @@ basic.forever(function () {
 
 The turle extension has been added to this project for you, but for future reference click on the light bulb to see how to add an extension. 
 
-```spy
 ![Adding Turtle Extension.](https://raw.githubusercontent.com/rypsmith/randomturtle/master/addturtleextension.gif)
-```
+
 
 ## Step 10 - Use turtle powers!
 
