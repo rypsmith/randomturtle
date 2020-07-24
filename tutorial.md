@@ -94,7 +94,7 @@ basic.forever(function () {
 })
 ```
 
-## Step 9 - Turtle POWER! @fullscreen
+## Step 9 - Turtle POWER! @unplugged
 
 The turle extension has been added to this project for you, but for future reference click on the light bulb to see how to add an extension. 
 
