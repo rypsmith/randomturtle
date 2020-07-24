@@ -100,4 +100,16 @@ The turle extension has been added to this project for you, but for future refer
 
 ![Adding Turtle Extension.](https://raw.githubusercontent.com/rypsmith/randomturtle/master/addturtleextension.gif)
 
-Add the ``||turtle: turn left||`` block into the ``||logic:if...then||`` command, and the ``||turtle: turn right||`` into the ``||logic:else||`` 
+Add the ``||turtle: turn left||`` block into the ``||logic: if...then||`` command, and the ``||turtle: turn right||`` into the ``||logic: else||``
+
+```blocks
+let turnDirection = 0
+basic.forever(function () {
+    turnDirection = randint(0, 1)
+    if (turnDirection == 0) {
+        turtle.turnLeft()
+    } else {
+        turtle.turnRight()
+    }
+})
+```
