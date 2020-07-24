@@ -96,4 +96,8 @@ basic.forever(function () {
 
 ## Step 9 - Turtle POWER!
 
-The turle extension has been added to this project for you, 
+The turle extension has been added to this project for you, but for future reference here is how to add an extension: 
+
+![Adding Turtle Extension.](https://raw.githubusercontent.com/rypsmith/randomturtle/master/addturtleextension.gif)
+
+Add the ``||turtle: turn left||`` block into the ``||logic:if...then||`` command, and the ``||turtle: turn right||`` into the ``||logic:else||`` 
