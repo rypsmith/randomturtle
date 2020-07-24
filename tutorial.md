@@ -62,3 +62,38 @@ basic.forever(function () {
     }
 })
 ```
+## Step 7 - add in equality comparison
+
+Now go into logic and grab the ``||logic: 0 = 0||`` block, insert it into the ``||logic:if...then, else||`` block.
+
+```blocks
+let turnDirection = 0
+basic.forever(function () {
+    turnDirection = randint(0, 1)
+    if (0 == 0) {
+    	
+    } else {
+    	
+    }
+})
+```
+
+## Step 8 - use the variables
+
+Place the block ``||variable: turnDirection||`` inside the first zero value in the ``||logic:if...then, else||`` block.
+
+```blocks
+let turnDirection = 0
+basic.forever(function () {
+    turnDirection = randint(0, 1)
+    if (turnDirection == 0) {
+    	
+    } else {
+    	
+    }
+})
+```
+
+## Step 9 - Turtle POWER!
+
+The turle extension has been added to this project for you, 
