@@ -8,7 +8,7 @@ This time you can use the "Turle" extension to have a LED move around the screen
 
 ## Step 1 - Setup
 
-Start by removing the ``||basic:on start||`` block. Keep the ``||basic:on plot||``.
+Start by removing the ``||basic:on start||`` block. Keep the ``||basic:forever||``, everything will be happening in this block..
 
 ## Step 2 - Make variables
 
@@ -64,7 +64,7 @@ basic.forever(function () {
 ```
 ## Step 7 - add in equality comparison
 
-Now go into logic and grab the ``||logic: 0 = 0||`` block, insert it into the ``||logic:if...then, else||`` block.
+Now go into logic and grab the ``||logic: 0 = 0 ||`` block, insert it into the ``||logic:if...then, else||`` block.
 
 ```blocks
 let turnDirection = 0
